@@ -1,0 +1,16 @@
+A	**doc_total	2,2
+A	**word_total	6,8
+A	beijing	0,1
+A	chinese	0,1
+A	chinese	0,1
+A	chinese	0,1
+A	japan	0,1
+A	japan	1,0
+A	japan	1,0
+A	macao	1,0
+A	shanghai	0,1
+A	tokyo	0,1
+A	tokyo	1,0
+A	tokyo	1,0
+A	trade	0,1
+A	trade	1,0
