@@ -8,4 +8,4 @@
 
 The main focus of Project 1 is querying the data. This is accomplished with SQL while utilizing Google Cloud Platform (GCP) and BiqQuery. The queries answer business-driven questions using public datasets housed in GCP. The datasets are accessed through the web UI (BiqQuery) and command-line tools. Analysis and insights are performed in Jupyter Notebooks.
 
-*All of these projects were completed for UCB's Master of Data Science Course W209 - Machine Learning at Scale. These were completed using a Google Cloud Platform Notebook Instance.* 
+*All of these projects were completed for UCB's Master of Data Science Course W261 - Machine Learning at Scale. These were completed using an AWS Databricks Instance.* 
