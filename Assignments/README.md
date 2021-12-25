@@ -14,11 +14,11 @@ The main focus of Homework 2 is to build a Naive Bayes model using Hadoop MapRed
 
 * [Homework 3](https://github.com/etwernerMIDS/Machine_Learning_at_Scale/tree/main/Assignments/HW3)
 
-The main focus of Homework 3 is to perform synonym detection using Spark. 
+The main focus of Homework 3 is to perform Synonym Detection using Spark. 
 
 * [Homework 4](https://github.com/etwernerMIDS/Machine_Learning_at_Scale/tree/main/Assignments/HW4)
 
-The main focus of Homework 4 is to implement gradient descent at scale using Spark.
+The main focus of Homework 4 is to implement Gradient Descent at scale using Spark.
 
 * [Homework 5](https://github.com/etwernerMIDS/Machine_Learning_at_Scale/tree/main/Assignments/HW5)
 
