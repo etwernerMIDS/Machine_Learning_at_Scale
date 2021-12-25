@@ -2,11 +2,10 @@
 
 ## Erin Werner
 
-Data engineering is the aspect of data science that focuses on practical applications of data collection and analysis. Before a company can optimize the business more efficiently or build data products more intelligently, layers of foundational work need to be built first. Data engineering must source, transform, and analyze data from each system. As a result, data engineering helps make data more useful and accessible for consumers of data.
+Machine learning at scale goes beyond the collect-and-analyze phase of big data by focusing on how machine learning algorithms can be rewritten and extended to scale to work on petabytes of data, both structured and unstructured, to generate sophisticated models used for real-time predictions.
 
-The [assignments](https://github.com/etwernerMIDS/Machine_Learning_at_Scale/tree/main/Assignments) and [final project](https://github.com/etwernerMIDS/Machine_Learning_at_Scale/tree/main/Final_Project) in this repository will cover the different aspects within the Data Engineering ETL pipeline, such as 
+The [assignments](https://github.com/etwernerMIDS/Machine_Learning_at_Scale/tree/main/Assignments) and [final project](https://github.com/etwernerMIDS/Machine_Learning_at_Scale/tree/main/Final_Project) in this repository will cover the different aspects within the Machine Learning at scale pipeline, such as 
 
-* **writing** events to *Kafka* topics
-* **filtering & separating** events with *Spark*
-* **storing** events in *Hadoop* (HDFS)
-* **querying** events with *SQL*
+* implementing the MapReduce paradigm for parallel computing
+* utilizing different frameworks like Unix, Hadoop, and Spark
+* designing algorithms for parallel distribution
