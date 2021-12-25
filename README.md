@@ -8,4 +8,4 @@ The [assignments](https://github.com/etwernerMIDS/Machine_Learning_at_Scale/tree
 
 * implementing the MapReduce paradigm for parallel computing
 * utilizing different frameworks like Unix, Hadoop, and Spark
-* designing algorithms for parallel distribution
+* designing ML algorithms for parallel distribution
